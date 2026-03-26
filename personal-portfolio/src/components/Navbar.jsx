@@ -17,7 +17,7 @@ const Navbar = () => {
 
     const navLinks = [
         { name: '首頁', href: '#hero' },
-        { name: '關於我', href: '#about' },
+        { name: '關於我張富翔', href: '#about' },
         { name: '作品集', href: '#projects' },
         { name: '聯絡我', href: '#contact' },
     ];
