@@ -13,5 +13,5 @@ jobs:
         username: ${{ secrets.GCP_USERNAME }}
         key: ${{ secrets.GCP_SSH_PRIVATE_KEY }}
          script:|
-          cd ~/GCP-4
+          cd ~/GCP-4/personal-portfolio
           ./update.sh
